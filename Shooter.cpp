@@ -1,4 +1,4 @@
-#include "lab_m1/lab6/lab6.h"
+#include "Shooter.h"
 #include <iostream>
 #include <string>
 #include <vector>
