@@ -1,5 +1,5 @@
 #pragma once
-#include "OpenGl_Project/lab6/lab_camera.h"
+#include "lab_camera.h"
 #include "components/simple_scene.h"
 #include <vector>
 namespace m1 {
